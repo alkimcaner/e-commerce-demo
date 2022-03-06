@@ -15,7 +15,7 @@ body {
     filter: blur(8px);
 }
 
-.about {
+.products {
     height: 32rem;
 }
 
@@ -30,4 +30,9 @@ body {
 
 .carousel-caption h1 {
     font-size: 4rem;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 280px;
 }
