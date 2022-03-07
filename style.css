@@ -15,10 +15,6 @@ body {
     filter: blur(8px);
 }
 
-.products {
-    height: 40rem;
-}
-
 .carousel-caption {
     width: 100%;
     height: 100%;
